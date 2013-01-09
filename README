@@ -1,4 +1,7 @@
-jmtpfs:
+A FUSE based MTP filesystem designed to make exchanging files between Android devices and Linux
+
+Homepage: http://research.jacquette.com/jmtpfs-exchanging-files-between-android-devices-and-linux/
+Download: http://research.jacquette.com/wp-content/uploads/2012/05/jmtpfs-0.4.tar.gz
 
 jmtpfs is a FUSE and libmtp based filesystem for accessing MTP (Media Transfer
 Protocol) devices. It was specifically designed for exchaning files between 
